@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://principality.github.io/"/>
-  <updated>2016-07-26T15:06:27.120Z</updated>
+  <updated>2017-05-12T03:46:01.579Z</updated>
   <id>http://principality.github.io/</id>
   
   <author>
@@ -14,6 +14,53 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2017-05-12-技术方向选择迷思</title>
+    <link href="http://principality.github.io/2017/05/12/2017-05-12-%E6%8A%80%E6%9C%AF%E6%96%B9%E5%90%91%E9%80%89%E6%8B%A9%E8%BF%B7%E6%80%9D/"/>
+    <id>http://principality.github.io/2017/05/12/2017-05-12-技术方向选择迷思/</id>
+    <published>2017-05-12T02:32:54.000Z</published>
+    <updated>2017-05-12T03:46:01.579Z</updated>
+    
+    <content type="html">&lt;p&gt;如何在碰到天花板后选择合适的技术方向？&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;正如我们所知，中国计算机产业是缺失的。我们并没有在计算机基础产业上出现巨头，计算机理论、计算机架构上并没有形成良好的产业链。&lt;/p&gt;
+&lt;p&gt;我们大学里面从事基础研究的积累单薄，我们在芯片、操作系统、编程语言、数据库等方面都处于落后状态。人才缺少从业机会，自然会导致人才的分流。&lt;/p&gt;
+&lt;p&gt;正是因为国内的行业情况，计算机领域的专业人才，大范围选择了计算机应用领域，基础研究的积累更少，从业机会更少。&lt;/p&gt;
+&lt;p&gt;计算机应用领域因为其高薪，吸收了大量优秀的人才，但是却局限于只能从事应用的研发，导致了这些优秀人才虽然推动了应用领域的繁荣，但却局限于专业背景无法主导业务。&lt;/p&gt;
+&lt;p&gt;优秀人才无法主导业务导致了两个背离：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;工作效率低效，计算机领域日趋复杂，业务人员了解技术的成本越来越高，沟通成本持续上升&lt;/li&gt;
+&lt;li&gt;外行指导内行，应用领域对计算机知识依赖度持续提高，技术驱动业务造成业务人员的尴尬&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;伴随着各种背离情况的出现，优秀的技术人才陷入了天花板危机，出现了各种分化，包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;铤而走险，成为技术合伙人，但却无法胜任业务主导角色，陷入技术被动的危机&lt;/li&gt;
+&lt;li&gt;转身管理岗，转型业务主导，逐步远离技术&lt;/li&gt;
+&lt;li&gt;专注技术，不管业务，以个人意向为主导，提升了技术，但却失去了业务的平台&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我们可以看到，因为天花板的存在，造成了大量的资源浪费，也造成了许多人才选择局限，走向困境远离卓越。毫无疑问这是可惜的。当然，这里面有一些走得好的情况：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;依赖大公司大平台&lt;/li&gt;
+&lt;li&gt;挑战中国计算机基础产业研发&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我们应当参考先进国家的经验，摆脱这样的困境，合适的方法有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;拥抱开源，挑战中国计算机基础产业研发，弥补我们产业不足，这需要厚积爆发&lt;/li&gt;
+&lt;li&gt;把握云平台的发展趋势，云平台技术的发展，是新赛道的建立，也是进入计算机支撑产业的良机&lt;/li&gt;
+&lt;li&gt;抽象应用的业务需求，研发业务支撑引擎，为产业提供服务，推动业务的发展&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;过去的弯路，积累下来的一点点思考，希望有益。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;如何在碰到天花板后选择合适的技术方向？&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>2016-07-26-如何成就卓越</title>
